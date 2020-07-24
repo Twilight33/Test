@@ -1,1 +1,11 @@
-
+{
+  "posts": [
+    {
+      "id": 2,
+      "title": "sad"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
