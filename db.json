@@ -3,8 +3,7 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello",
-      "data":[{"q":"321"},{"q":"456"}]
+      "title": "hello"
     }
   ],
   "profile": {
